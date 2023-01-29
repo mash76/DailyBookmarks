@@ -3,6 +3,7 @@ Web Bookmarks with Incremental Keyboard Shortcuts
 キーボード増分ショートカットつきWebブックマーク集。  
 毎日使うサイトにキーボードショートカットで素早くたどり着くための生活ツールです。  
 「あとで読む」のような一時的ブックマークではありません。
+HTMLを書ける必要があります。
 <img width="350" alt="Screenshot 2023-01-29 at 15 05 00" src="https://user-images.githubusercontent.com/1288268/215308281-af03ddf9-3915-47ba-bfc1-2dbb8b354880.png">
 
 
@@ -13,10 +14,13 @@ https://github.com/mash76/DailyBookmarks/archive/refs/heads/main.zip
 「j」と押したらジモティに、  
 「do」と押したらgoogleDocに、  
 「dm」と押したらd-Magazineに飛びます。  
+o=温度、syu=祝日、a=amazonなどをあらかじめ登録しています。
   
 競合候補がなければ1文字で、あれば識別できるようになった時点でリンク先に飛びます。  
 入力ミスしたらEnterでやり直しです。
-ただのHTMLなので、毎日の仕事や興味の変化に応じて自由に書き換え、組み替えてご利用ください
+
+これらはシンプルなのHTMLで、サンプルとして登録してあります。
+毎日の仕事や興味の変化に応じて自由に書き換え、組み替えてご利用ください
 
 # しくみ
 JavaScriptを使って、HTML内のAタグのscという属性をショートカット文字列として扱っています。  
