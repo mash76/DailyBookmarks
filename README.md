@@ -19,7 +19,7 @@ https://github.com/mash76/DailyBookmarks/archive/refs/heads/main.zip
 **o**=温度、**syu**=祝日、**a**=amazon、**f**=facebook、**t**=twitterをあらかじめ登録しています。
   
 競合候補がなければ1文字で、あれば識別できるようになった時点でリンク先に飛びます。  
-入力ミスしたらEnterでキャンセできます。
+入力ミスしたらEnterでキャンセルできます。
 
 これら初期情報はサンプルとして登録してあります。
 シンプルなHTMLなので、仕事や興味の変化に応じて日々書き換えてご利用ください
