@@ -5,5 +5,7 @@ Web Bookmarks with Incremental Keyboard Shortcuts
 
 # 5秒で利用開始
 以下のリンクからブックマークをダウンロードして、解凍、htmlをダブルクリックしてブラウザで開いてください。
+
 https://github.com/mash76/DailyBookmarks/archive/refs/heads/main.zip
+
 「j」と押したらジモティに、「do」と押したらgoogleDocに、「dm」と押したらd-Magazineに飛びます
