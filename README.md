@@ -26,7 +26,7 @@ o=温度、syu=祝日、a=amazonなどをあらかじめ登録しています。
 JavaScriptを使って、HTML内のAタグのscという属性をショートカット文字列として扱っています。  
 この場合、aと押せばamazonに飛びます。  
 ```
-<a target="_blank" sc="amazon" href="http://amazon.co.jp">amazon</a>
+<a sc="amazon" href="http://amazon.co.jp">amazon</a>
 ```
 
 当初は長いプログラムを書いていましたが、いろいろ試した末、生活や状況の変化はそれなりに早く、ブックマーク集をそれに対応させるには、細かい機能を作り込むよりHTMLの自由さを解放するのがよいという考えに至り、このようにまとまりました。
