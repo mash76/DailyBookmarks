@@ -16,3 +16,7 @@ https://github.com/mash76/DailyBookmarks/archive/refs/heads/main.zip
 「dm」と押したらd-Magazineに飛びます。  
   
 競合候補がなければ1文字で、あれば識別できるようになった時点でリンク先に飛びます。  
+
+入力ミスしたらEnterでやり直しです。
+
+ただのHTMLなので、毎日の仕事や興味の変化に応じて自由に書き換え、組み替えてご利用ください
