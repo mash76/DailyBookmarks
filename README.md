@@ -38,6 +38,6 @@ https://github.com/mash76/DailyBookmarks/archive/refs/heads/main.zip
 このブックマークHTML自体にたどりつきやすくすることも重要です。
 
 # よこく
-特定のフォルダやアプリケーションも呼び出せるPHP版も今後出します
+Mac限定ですが、特定のフォルダやアプリケーションも呼び出せるPHP版も今後出します
 
 
