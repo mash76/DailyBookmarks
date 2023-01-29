@@ -36,3 +36,8 @@ https://github.com/mash76/DailyBookmarks/archive/refs/heads/main.zip
 # 応用
 私はこのリンク集をブラウザのスタートページにしたり、BetterTouchToolというMacのカスタマイズツールで4本指下スワイプに割り当てたりしています。
 このブックマークHTML自体にたどりつきやすくすることも重要です。
+
+# よこく
+特定のフォルダやアプリケーションも呼び出せるPHP版も今後出します
+
+
