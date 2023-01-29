@@ -4,7 +4,7 @@ Web Bookmarks with Incremental Keyboard Shortcuts
 毎日使うサイトにキーボードショートカットで素早くたどり着くための生活ツールです。  
 「あとで読む」のような一時的ブックマークではありません。
 HTMLを書ける必要があります。  
-<img width="350" alt="Screenshot 2023-01-29 at 15 05 00" src="https://user-images.githubusercontent.com/1288268/215308281-af03ddf9-3915-47ba-bfc1-2dbb8b354880.png">
+<span border="1"><img width="350" alt="Screenshot 2023-01-29 at 15 05 00" src="https://user-images.githubusercontent.com/1288268/215308281-af03ddf9-3915-47ba-bfc1-2dbb8b354880.png"></span>
 
 
 # 5秒で利用開始
