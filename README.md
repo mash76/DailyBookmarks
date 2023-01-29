@@ -1,5 +1,6 @@
 # DailyBookmarks
 Web Bookmarks with Incremental Keyboard Shortcuts
+
 キーボードショートカットつきWebブックマーク集。
 「あとで読む」のような一時的ブックマークではなく、毎日使うサイトに素早くたどり着くための生活ツールです。
 <img width="350" border="2" alt="Screenshot 2023-01-29 at 15 05 00" src="https://user-images.githubusercontent.com/1288268/215308281-af03ddf9-3915-47ba-bfc1-2dbb8b354880.png">
