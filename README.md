@@ -8,4 +8,8 @@ Web Bookmarks with Incremental Keyboard Shortcuts
 
 https://github.com/mash76/DailyBookmarks/archive/refs/heads/main.zip
 
-「j」と押したらジモティに、「do」と押したらgoogleDocに、「dm」と押したらd-Magazineに飛びます
+「j」と押したらジモティに、
+「do」と押したらgoogleDocに、
+「dm」と押したらd-Magazineに飛びます。
+
+競合候補がなければ1文字で、あれば識別できるようになった時点でリンク先に飛びます。
