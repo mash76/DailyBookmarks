@@ -1,4 +1,4 @@
-# DailyBookmarks
+# 毎日使うサイトにキーボードで素早くたどり着く
 Web Bookmarks with Incremental Keyboard Shortcuts  
 キーボード増分ショートカットつきWebブックマーク集。  
 HTML1ファイル、JavaScript60行。  
@@ -6,7 +6,7 @@ HTML1ファイル、JavaScript60行。
 
 <kbd><img width="500" alt="Screenshot 2023-01-29 at 15 05 00" src="https://user-images.githubusercontent.com/1288268/215308281-af03ddf9-3915-47ba-bfc1-2dbb8b354880.png"></kbd>
 
-# 毎日使うサイトにキーボードで素早くたどり着く
+
 「あとで読む」のような一時的ブックマークではなく、仕事や作業をしながら一日50回くらい使うことを想定しています。  
 HTMLを書ける必要があります。  
 
