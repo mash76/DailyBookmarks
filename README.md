@@ -21,7 +21,8 @@ https://github.com/mash76/DailyBookmarks/archive/refs/heads/main.zip
 ただのHTMLなので、毎日の仕事や興味の変化に応じて自由に書き換え、組み替えてご利用ください
 
 # しくみ
-JavaScriptを使って、HTML内のAタグのscという属性をショートカット文字列として扱っています。
+JavaScriptを使って、HTML内のAタグのscという属性をショートカット文字列として扱っています。  
+この場合、aと押せばamazonに飛びます。  
 ```
 <a target="_blank" sc="amazon" href="http://amazon.co.jp">amazon</a>
 ```
