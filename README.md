@@ -1,7 +1,6 @@
 # 毎日使うサイトにキーボードで素早くたどり着く
 Web Bookmarks with Incremental Keyboard Shortcuts  
-キーボード増分ショートカットつきWebブックマーク集。  
-HTML1ファイル、JavaScript60行。  
+HTML1ファイルでJavaScript60行のキーボード増分ショートカットつきWebブックマーク集です
 「あとで読む」のような一時的ブックマークではなく、仕事や作業をしながら一日50回くらい使うことを想定しています。  
 HTMLを書ける必要があります。  
 
